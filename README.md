@@ -14,3 +14,18 @@
 - I’m currently looking for a new career opportunity.
 - I am competent in many things, including Python, SQL, GCP, AWS and more...
 - 📫 How to reach me: www.linkedin.com/in/lisa-larade
+
+<br>
+<br>
+
+Technical stack :
+
+| Categories        | Technologies |
+| :---------------- | :------: |
+| Languages | Python,SQL,JavaScript,Bash |
+| Databases | PostgreSQL,Bigquery |
+| Data Visualization |   PowerBI,Metabase, Streamlit, Flask, Django |
+| APIs | FlaskAPI, DjangoRest |
+| Cloud   | GCP, AWS  |
+| Big Data | PySpark, DBT, Airflow |
+| DevOps |  Docker, Docker Compose, CircleCI, GitLab |
