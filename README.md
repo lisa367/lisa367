@@ -23,7 +23,7 @@ Technical stack :
 | Categories        | Technologies |
 | :---------------- | :------: |
 | Languages | Python,SQL,JavaScript,Bash |
-| Databases | PostgreSQL,Bigquery,MySQL |
+| Databases | PostgreSQL,Bigquery,MondoDB |
 | Data Visualization |   PowerBI,Metabase, Streamlit, Flask, Django |
 | APIs | FlaskAPI, DjangoRest |
 | Cloud   | GCP, AWS  |
